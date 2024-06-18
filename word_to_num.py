@@ -5,7 +5,7 @@ Number to Words by Sahil Mishra
 
 Program takes an integer as an input and returns the word representation of the integer.
 
-Theoretical limit : As high as 
+Theoretical limit : Constrained only by available memory
 
 Practical limit : Works upto 9.99 x 10^36
 
