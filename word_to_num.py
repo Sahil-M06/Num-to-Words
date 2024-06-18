@@ -1,5 +1,18 @@
 # coding: utf-8
-#initializing basic words
+
+"""
+Number to Words by Sahil Mishra
+
+Program takes an integer as an input and returns the word representation of the integer.
+
+Theoretical limit : As high as 
+
+Practical limit : Works upto 9.99 x 10^36
+
+The limit can be increased by adding more words "places" tuple. The words are repesentation of number of 10^3n form
+                where n is an integer, n=1,2,3,4,....
+
+"""
 
 ones=("","one","two","three","four","five","six","seven","eight","nine")
 teens=("ten","eleven","twelve","thirteen","fifteen","sixteen","seventeen","eighteen","nineteen","twenty")
